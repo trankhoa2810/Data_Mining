@@ -11,5 +11,3 @@ combinedTotalEarnings: tổng thu nhập
 combinedTotalRevenue: tổng doanh thu
 totalJobsWorked: tổng số công việc đã làm
 totalHourlyJobs: tổng số công việc làm hàng giờ
-
-https://www.upwork.com/search/profiles/api/search?category_uid=531770282584862721&loc=vietnam&page=1 accounting_consulting
