@@ -1,0 +1,15 @@
+ciphertext: bản mã của từng người dùng
+username: tên người dùng
+title: tiêu đề
+description: mô tả
+top_skills: danh sách các kỹ năng
+country: quốc gia
+city: thành phố
+state: tỉnh/ tiểu bang
+hourly_rate: chi phí hàng giờ
+combinedTotalEarnings: tổng thu nhập
+combinedTotalRevenue: tổng doanh thu
+totalJobsWorked: tổng số công việc đã làm
+totalHourlyJobs: tổng số công việc làm hàng giờ
+
+https://www.upwork.com/search/profiles/api/search?category_uid=531770282584862721&loc=vietnam&page=1 accounting_consulting
